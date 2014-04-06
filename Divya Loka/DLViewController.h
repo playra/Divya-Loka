@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface DLViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIWebView *symbolWebView;
 
 @end

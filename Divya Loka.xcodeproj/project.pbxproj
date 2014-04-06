@@ -22,6 +22,56 @@
 		73D3BC4718F1818400CC2B12 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73D3BC2618F1818400CC2B12 /* UIKit.framework */; };
 		73D3BC4F18F1818400CC2B12 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC4D18F1818400CC2B12 /* InfoPlist.strings */; };
 		73D3BC5118F1818400CC2B12 /* Divya_LokaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC5018F1818400CC2B12 /* Divya_LokaTests.m */; };
+		73D3BC5C18F181C500CC2B12 /* DLDirectoryTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC5B18F181C500CC2B12 /* DLDirectoryTableViewController.m */; };
+		73D3BCA318F181FF00CC2B12 /* credo.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC5D18F181FF00CC2B12 /* credo.rtf */; };
+		73D3BCA418F181FF00CC2B12 /* ReaderAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC6018F181FF00CC2B12 /* ReaderAppDelegate.m */; };
+		73D3BCA518F181FF00CC2B12 /* ReaderBookDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC6218F181FF00CC2B12 /* ReaderBookDelegate.m */; };
+		73D3BCA618F181FF00CC2B12 /* ReaderDemoController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC6418F181FF00CC2B12 /* ReaderDemoController.m */; };
+		73D3BCA718F181FF00CC2B12 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC6618F181FF00CC2B12 /* back.png */; };
+		73D3BCA818F181FF00CC2B12 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC6718F181FF00CC2B12 /* Default-568h@2x.png */; };
+		73D3BCA918F181FF00CC2B12 /* Reader-Button-H.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC6818F181FF00CC2B12 /* Reader-Button-H.png */; };
+		73D3BCAA18F181FF00CC2B12 /* Reader-Button-H@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC6918F181FF00CC2B12 /* Reader-Button-H@2x.png */; };
+		73D3BCAB18F181FF00CC2B12 /* Reader-Button-N1.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC6A18F181FF00CC2B12 /* Reader-Button-N1.png */; };
+		73D3BCAC18F181FF00CC2B12 /* Reader-Button-N1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC6B18F181FF00CC2B12 /* Reader-Button-N1@2x.png */; };
+		73D3BCAD18F181FF00CC2B12 /* Reader-Email.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC6C18F181FF00CC2B12 /* Reader-Email.png */; };
+		73D3BCAE18F181FF00CC2B12 /* Reader-Email@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC6D18F181FF00CC2B12 /* Reader-Email@2x.png */; };
+		73D3BCAF18F181FF00CC2B12 /* Reader-Mark-N.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC6E18F181FF00CC2B12 /* Reader-Mark-N.png */; };
+		73D3BCB018F181FF00CC2B12 /* Reader-Mark-N@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC6F18F181FF00CC2B12 /* Reader-Mark-N@2x.png */; };
+		73D3BCB118F181FF00CC2B12 /* Reader-Mark-Y.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC7018F181FF00CC2B12 /* Reader-Mark-Y.png */; };
+		73D3BCB218F181FF00CC2B12 /* Reader-Mark-Y@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC7118F181FF00CC2B12 /* Reader-Mark-Y@2x.png */; };
+		73D3BCB318F181FF00CC2B12 /* Reader-Print.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC7218F181FF00CC2B12 /* Reader-Print.png */; };
+		73D3BCB418F181FF00CC2B12 /* Reader-Print@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC7318F181FF00CC2B12 /* Reader-Print@2x.png */; };
+		73D3BCB518F181FF00CC2B12 /* Reader-Thumbs.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC7418F181FF00CC2B12 /* Reader-Thumbs.png */; };
+		73D3BCB618F181FF00CC2B12 /* Reader-Thumbs@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BC7518F181FF00CC2B12 /* Reader-Thumbs@2x.png */; };
+		73D3BCB718F181FF00CC2B12 /* CGPDFDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC7818F181FF00CC2B12 /* CGPDFDocument.m */; };
+		73D3BCB818F181FF00CC2B12 /* ReaderConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC7A18F181FF00CC2B12 /* ReaderConstants.m */; };
+		73D3BCB918F181FF00CC2B12 /* ReaderContentPage.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC7C18F181FF00CC2B12 /* ReaderContentPage.m */; };
+		73D3BCBA18F181FF00CC2B12 /* ReaderContentTile.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC7E18F181FF00CC2B12 /* ReaderContentTile.m */; };
+		73D3BCBB18F181FF00CC2B12 /* ReaderContentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC8018F181FF00CC2B12 /* ReaderContentView.m */; };
+		73D3BCBC18F181FF00CC2B12 /* ReaderDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC8218F181FF00CC2B12 /* ReaderDocument.m */; };
+		73D3BCBD18F181FF00CC2B12 /* ReaderDocumentOutline.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC8418F181FF00CC2B12 /* ReaderDocumentOutline.m */; };
+		73D3BCBE18F181FF00CC2B12 /* ReaderMainPagebar.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC8618F181FF00CC2B12 /* ReaderMainPagebar.m */; };
+		73D3BCBF18F181FF00CC2B12 /* ReaderMainToolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC8818F181FF00CC2B12 /* ReaderMainToolbar.m */; };
+		73D3BCC018F181FF00CC2B12 /* ReaderThumbCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC8A18F181FF00CC2B12 /* ReaderThumbCache.m */; };
+		73D3BCC118F181FF00CC2B12 /* ReaderThumbFetch.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC8C18F181FF00CC2B12 /* ReaderThumbFetch.m */; };
+		73D3BCC218F181FF00CC2B12 /* ReaderThumbQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC8E18F181FF00CC2B12 /* ReaderThumbQueue.m */; };
+		73D3BCC318F181FF00CC2B12 /* ReaderThumbRender.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC9018F181FF00CC2B12 /* ReaderThumbRender.m */; };
+		73D3BCC418F181FF00CC2B12 /* ReaderThumbRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC9218F181FF00CC2B12 /* ReaderThumbRequest.m */; };
+		73D3BCC518F181FF00CC2B12 /* ReaderThumbsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC9418F181FF00CC2B12 /* ReaderThumbsView.m */; };
+		73D3BCC618F181FF00CC2B12 /* ReaderThumbView.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC9618F181FF00CC2B12 /* ReaderThumbView.m */; };
+		73D3BCC718F181FF00CC2B12 /* ReaderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC9818F181FF00CC2B12 /* ReaderViewController.m */; };
+		73D3BCC818F181FF00CC2B12 /* ThumbsMainToolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC9A18F181FF00CC2B12 /* ThumbsMainToolbar.m */; };
+		73D3BCC918F181FF00CC2B12 /* ThumbsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC9C18F181FF00CC2B12 /* ThumbsViewController.m */; };
+		73D3BCCA18F181FF00CC2B12 /* UIXToolbarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 73D3BC9E18F181FF00CC2B12 /* UIXToolbarView.m */; };
+		73D3BCCC18F181FF00CC2B12 /* HISTORY.md in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BCA018F181FF00CC2B12 /* HISTORY.md */; };
+		73D3BCCD18F181FF00CC2B12 /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BCA118F181FF00CC2B12 /* LICENSE.md */; };
+		73D3BCCE18F181FF00CC2B12 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BCA218F181FF00CC2B12 /* README.md */; };
+		73D3BCD218F185F400CC2B12 /* Собрание Тайн.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BCD118F185F400CC2B12 /* Собрание Тайн.bundle */; };
+		73D3BCE118F188D800CC2B12 /* HTTP Live Streaming Overview.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BCDD18F188D800CC2B12 /* HTTP Live Streaming Overview.pdf */; };
+		73D3BCE218F188D800CC2B12 /* Objective-C Runtime Programming Guide.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BCDE18F188D800CC2B12 /* Objective-C Runtime Programming Guide.pdf */; };
+		73D3BCE318F188D800CC2B12 /* PDF Kit Programming Guide: Introduction to PDF Kit Programming Guide.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BCDF18F188D800CC2B12 /* PDF Kit Programming Guide: Introduction to PDF Kit Programming Guide.pdf */; };
+		73D3BCE418F188D800CC2B12 /* Reader.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BCE018F188D800CC2B12 /* Reader.pdf */; };
+		73D3BCE618F189A800CC2B12 /* Reader.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 73D3BCE518F189A800CC2B12 /* Reader.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +105,80 @@
 		73D3BC4C18F1818400CC2B12 /* Divya LokaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Divya LokaTests-Info.plist"; sourceTree = "<group>"; };
 		73D3BC4E18F1818400CC2B12 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		73D3BC5018F1818400CC2B12 /* Divya_LokaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Divya_LokaTests.m; sourceTree = "<group>"; };
+		73D3BC5A18F181C500CC2B12 /* DLDirectoryTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DLDirectoryTableViewController.h; path = ../DLDirectoryTableViewController.h; sourceTree = "<group>"; };
+		73D3BC5B18F181C500CC2B12 /* DLDirectoryTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DLDirectoryTableViewController.m; path = ../DLDirectoryTableViewController.m; sourceTree = "<group>"; };
+		73D3BC5D18F181FF00CC2B12 /* credo.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = credo.rtf; sourceTree = "<group>"; };
+		73D3BC5F18F181FF00CC2B12 /* ReaderAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderAppDelegate.h; sourceTree = "<group>"; };
+		73D3BC6018F181FF00CC2B12 /* ReaderAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderAppDelegate.m; sourceTree = "<group>"; };
+		73D3BC6118F181FF00CC2B12 /* ReaderBookDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderBookDelegate.h; sourceTree = "<group>"; };
+		73D3BC6218F181FF00CC2B12 /* ReaderBookDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderBookDelegate.m; sourceTree = "<group>"; };
+		73D3BC6318F181FF00CC2B12 /* ReaderDemoController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderDemoController.h; sourceTree = "<group>"; };
+		73D3BC6418F181FF00CC2B12 /* ReaderDemoController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderDemoController.m; sourceTree = "<group>"; };
+		73D3BC6618F181FF00CC2B12 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		73D3BC6718F181FF00CC2B12 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		73D3BC6818F181FF00CC2B12 /* Reader-Button-H.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Button-H.png"; sourceTree = "<group>"; };
+		73D3BC6918F181FF00CC2B12 /* Reader-Button-H@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Button-H@2x.png"; sourceTree = "<group>"; };
+		73D3BC6A18F181FF00CC2B12 /* Reader-Button-N1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Button-N1.png"; sourceTree = "<group>"; };
+		73D3BC6B18F181FF00CC2B12 /* Reader-Button-N1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Button-N1@2x.png"; sourceTree = "<group>"; };
+		73D3BC6C18F181FF00CC2B12 /* Reader-Email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Email.png"; sourceTree = "<group>"; };
+		73D3BC6D18F181FF00CC2B12 /* Reader-Email@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Email@2x.png"; sourceTree = "<group>"; };
+		73D3BC6E18F181FF00CC2B12 /* Reader-Mark-N.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Mark-N.png"; sourceTree = "<group>"; };
+		73D3BC6F18F181FF00CC2B12 /* Reader-Mark-N@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Mark-N@2x.png"; sourceTree = "<group>"; };
+		73D3BC7018F181FF00CC2B12 /* Reader-Mark-Y.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Mark-Y.png"; sourceTree = "<group>"; };
+		73D3BC7118F181FF00CC2B12 /* Reader-Mark-Y@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Mark-Y@2x.png"; sourceTree = "<group>"; };
+		73D3BC7218F181FF00CC2B12 /* Reader-Print.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Print.png"; sourceTree = "<group>"; };
+		73D3BC7318F181FF00CC2B12 /* Reader-Print@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Print@2x.png"; sourceTree = "<group>"; };
+		73D3BC7418F181FF00CC2B12 /* Reader-Thumbs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Thumbs.png"; sourceTree = "<group>"; };
+		73D3BC7518F181FF00CC2B12 /* Reader-Thumbs@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Thumbs@2x.png"; sourceTree = "<group>"; };
+		73D3BC7718F181FF00CC2B12 /* CGPDFDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGPDFDocument.h; sourceTree = "<group>"; };
+		73D3BC7818F181FF00CC2B12 /* CGPDFDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CGPDFDocument.m; sourceTree = "<group>"; };
+		73D3BC7918F181FF00CC2B12 /* ReaderConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderConstants.h; sourceTree = "<group>"; };
+		73D3BC7A18F181FF00CC2B12 /* ReaderConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderConstants.m; sourceTree = "<group>"; };
+		73D3BC7B18F181FF00CC2B12 /* ReaderContentPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderContentPage.h; sourceTree = "<group>"; };
+		73D3BC7C18F181FF00CC2B12 /* ReaderContentPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderContentPage.m; sourceTree = "<group>"; };
+		73D3BC7D18F181FF00CC2B12 /* ReaderContentTile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderContentTile.h; sourceTree = "<group>"; };
+		73D3BC7E18F181FF00CC2B12 /* ReaderContentTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderContentTile.m; sourceTree = "<group>"; };
+		73D3BC7F18F181FF00CC2B12 /* ReaderContentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderContentView.h; sourceTree = "<group>"; };
+		73D3BC8018F181FF00CC2B12 /* ReaderContentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderContentView.m; sourceTree = "<group>"; };
+		73D3BC8118F181FF00CC2B12 /* ReaderDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderDocument.h; sourceTree = "<group>"; };
+		73D3BC8218F181FF00CC2B12 /* ReaderDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderDocument.m; sourceTree = "<group>"; };
+		73D3BC8318F181FF00CC2B12 /* ReaderDocumentOutline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderDocumentOutline.h; sourceTree = "<group>"; };
+		73D3BC8418F181FF00CC2B12 /* ReaderDocumentOutline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderDocumentOutline.m; sourceTree = "<group>"; };
+		73D3BC8518F181FF00CC2B12 /* ReaderMainPagebar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderMainPagebar.h; sourceTree = "<group>"; };
+		73D3BC8618F181FF00CC2B12 /* ReaderMainPagebar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderMainPagebar.m; sourceTree = "<group>"; };
+		73D3BC8718F181FF00CC2B12 /* ReaderMainToolbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderMainToolbar.h; sourceTree = "<group>"; };
+		73D3BC8818F181FF00CC2B12 /* ReaderMainToolbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderMainToolbar.m; sourceTree = "<group>"; };
+		73D3BC8918F181FF00CC2B12 /* ReaderThumbCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderThumbCache.h; sourceTree = "<group>"; };
+		73D3BC8A18F181FF00CC2B12 /* ReaderThumbCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderThumbCache.m; sourceTree = "<group>"; };
+		73D3BC8B18F181FF00CC2B12 /* ReaderThumbFetch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderThumbFetch.h; sourceTree = "<group>"; };
+		73D3BC8C18F181FF00CC2B12 /* ReaderThumbFetch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderThumbFetch.m; sourceTree = "<group>"; };
+		73D3BC8D18F181FF00CC2B12 /* ReaderThumbQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderThumbQueue.h; sourceTree = "<group>"; };
+		73D3BC8E18F181FF00CC2B12 /* ReaderThumbQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderThumbQueue.m; sourceTree = "<group>"; };
+		73D3BC8F18F181FF00CC2B12 /* ReaderThumbRender.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderThumbRender.h; sourceTree = "<group>"; };
+		73D3BC9018F181FF00CC2B12 /* ReaderThumbRender.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderThumbRender.m; sourceTree = "<group>"; };
+		73D3BC9118F181FF00CC2B12 /* ReaderThumbRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderThumbRequest.h; sourceTree = "<group>"; };
+		73D3BC9218F181FF00CC2B12 /* ReaderThumbRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderThumbRequest.m; sourceTree = "<group>"; };
+		73D3BC9318F181FF00CC2B12 /* ReaderThumbsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderThumbsView.h; sourceTree = "<group>"; };
+		73D3BC9418F181FF00CC2B12 /* ReaderThumbsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderThumbsView.m; sourceTree = "<group>"; };
+		73D3BC9518F181FF00CC2B12 /* ReaderThumbView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderThumbView.h; sourceTree = "<group>"; };
+		73D3BC9618F181FF00CC2B12 /* ReaderThumbView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderThumbView.m; sourceTree = "<group>"; };
+		73D3BC9718F181FF00CC2B12 /* ReaderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReaderViewController.h; sourceTree = "<group>"; };
+		73D3BC9818F181FF00CC2B12 /* ReaderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReaderViewController.m; sourceTree = "<group>"; };
+		73D3BC9918F181FF00CC2B12 /* ThumbsMainToolbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThumbsMainToolbar.h; sourceTree = "<group>"; };
+		73D3BC9A18F181FF00CC2B12 /* ThumbsMainToolbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThumbsMainToolbar.m; sourceTree = "<group>"; };
+		73D3BC9B18F181FF00CC2B12 /* ThumbsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThumbsViewController.h; sourceTree = "<group>"; };
+		73D3BC9C18F181FF00CC2B12 /* ThumbsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThumbsViewController.m; sourceTree = "<group>"; };
+		73D3BC9D18F181FF00CC2B12 /* UIXToolbarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIXToolbarView.h; sourceTree = "<group>"; };
+		73D3BC9E18F181FF00CC2B12 /* UIXToolbarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIXToolbarView.m; sourceTree = "<group>"; };
+		73D3BCA018F181FF00CC2B12 /* HISTORY.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HISTORY.md; sourceTree = "<group>"; };
+		73D3BCA118F181FF00CC2B12 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.md; sourceTree = "<group>"; };
+		73D3BCA218F181FF00CC2B12 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		73D3BCD118F185F400CC2B12 /* Собрание Тайн.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = "Собрание Тайн.bundle"; sourceTree = "<group>"; };
+		73D3BCDD18F188D800CC2B12 /* HTTP Live Streaming Overview.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "HTTP Live Streaming Overview.pdf"; sourceTree = "<group>"; };
+		73D3BCDE18F188D800CC2B12 /* Objective-C Runtime Programming Guide.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Objective-C Runtime Programming Guide.pdf"; sourceTree = "<group>"; };
+		73D3BCDF18F188D800CC2B12 /* PDF Kit Programming Guide: Introduction to PDF Kit Programming Guide.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "PDF Kit Programming Guide: Introduction to PDF Kit Programming Guide.pdf"; sourceTree = "<group>"; };
+		73D3BCE018F188D800CC2B12 /* Reader.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Reader.pdf; sourceTree = "<group>"; };
+		73D3BCE518F189A800CC2B12 /* Reader.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Reader.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,10 +208,15 @@
 		73D3BC1618F1818400CC2B12 = {
 			isa = PBXGroup;
 			children = (
+				73D3BCD118F185F400CC2B12 /* Собрание Тайн.bundle */,
+				73D3BCD018F1823800CC2B12 /* Rtf */,
+				73D3BCCF18F1821900CC2B12 /* PDF Reader */,
+				73D3BC7618F181FF00CC2B12 /* Sources */,
 				73D3BC2818F1818400CC2B12 /* Divya Loka */,
 				73D3BC4A18F1818400CC2B12 /* Divya LokaTests */,
 				73D3BC2118F1818400CC2B12 /* Frameworks */,
 				73D3BC2018F1818400CC2B12 /* Products */,
+				73D3BCDC18F188D800CC2B12 /* PDFs */,
 			);
 			sourceTree = "<group>";
 		};
@@ -118,6 +247,8 @@
 				73D3BC3218F1818400CC2B12 /* DLAppDelegate.m */,
 				73D3BC3418F1818400CC2B12 /* Main_iPhone.storyboard */,
 				73D3BC3718F1818400CC2B12 /* Main_iPad.storyboard */,
+				73D3BC5A18F181C500CC2B12 /* DLDirectoryTableViewController.h */,
+				73D3BC5B18F181C500CC2B12 /* DLDirectoryTableViewController.m */,
 				73D3BC3A18F1818400CC2B12 /* DLViewController.h */,
 				73D3BC3B18F1818400CC2B12 /* DLViewController.m */,
 				73D3BC3D18F1818400CC2B12 /* Images.xcassets */,
@@ -153,6 +284,121 @@
 				73D3BC4D18F1818400CC2B12 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		73D3BC5E18F181FF00CC2B12 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				73D3BC5F18F181FF00CC2B12 /* ReaderAppDelegate.h */,
+				73D3BC6018F181FF00CC2B12 /* ReaderAppDelegate.m */,
+				73D3BC6118F181FF00CC2B12 /* ReaderBookDelegate.h */,
+				73D3BC6218F181FF00CC2B12 /* ReaderBookDelegate.m */,
+				73D3BC6318F181FF00CC2B12 /* ReaderDemoController.h */,
+				73D3BC6418F181FF00CC2B12 /* ReaderDemoController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		73D3BC6518F181FF00CC2B12 /* Graphics */ = {
+			isa = PBXGroup;
+			children = (
+				73D3BC6618F181FF00CC2B12 /* back.png */,
+				73D3BC6718F181FF00CC2B12 /* Default-568h@2x.png */,
+				73D3BC6818F181FF00CC2B12 /* Reader-Button-H.png */,
+				73D3BC6918F181FF00CC2B12 /* Reader-Button-H@2x.png */,
+				73D3BC6A18F181FF00CC2B12 /* Reader-Button-N1.png */,
+				73D3BC6B18F181FF00CC2B12 /* Reader-Button-N1@2x.png */,
+				73D3BC6C18F181FF00CC2B12 /* Reader-Email.png */,
+				73D3BC6D18F181FF00CC2B12 /* Reader-Email@2x.png */,
+				73D3BC6E18F181FF00CC2B12 /* Reader-Mark-N.png */,
+				73D3BC6F18F181FF00CC2B12 /* Reader-Mark-N@2x.png */,
+				73D3BC7018F181FF00CC2B12 /* Reader-Mark-Y.png */,
+				73D3BC7118F181FF00CC2B12 /* Reader-Mark-Y@2x.png */,
+				73D3BC7218F181FF00CC2B12 /* Reader-Print.png */,
+				73D3BC7318F181FF00CC2B12 /* Reader-Print@2x.png */,
+				73D3BC7418F181FF00CC2B12 /* Reader-Thumbs.png */,
+				73D3BC7518F181FF00CC2B12 /* Reader-Thumbs@2x.png */,
+			);
+			path = Graphics;
+			sourceTree = "<group>";
+		};
+		73D3BC7618F181FF00CC2B12 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				73D3BC7718F181FF00CC2B12 /* CGPDFDocument.h */,
+				73D3BC7818F181FF00CC2B12 /* CGPDFDocument.m */,
+				73D3BC7918F181FF00CC2B12 /* ReaderConstants.h */,
+				73D3BC7A18F181FF00CC2B12 /* ReaderConstants.m */,
+				73D3BC7B18F181FF00CC2B12 /* ReaderContentPage.h */,
+				73D3BC7C18F181FF00CC2B12 /* ReaderContentPage.m */,
+				73D3BC7D18F181FF00CC2B12 /* ReaderContentTile.h */,
+				73D3BC7E18F181FF00CC2B12 /* ReaderContentTile.m */,
+				73D3BC7F18F181FF00CC2B12 /* ReaderContentView.h */,
+				73D3BC8018F181FF00CC2B12 /* ReaderContentView.m */,
+				73D3BC8118F181FF00CC2B12 /* ReaderDocument.h */,
+				73D3BC8218F181FF00CC2B12 /* ReaderDocument.m */,
+				73D3BC8318F181FF00CC2B12 /* ReaderDocumentOutline.h */,
+				73D3BC8418F181FF00CC2B12 /* ReaderDocumentOutline.m */,
+				73D3BC8518F181FF00CC2B12 /* ReaderMainPagebar.h */,
+				73D3BC8618F181FF00CC2B12 /* ReaderMainPagebar.m */,
+				73D3BC8718F181FF00CC2B12 /* ReaderMainToolbar.h */,
+				73D3BC8818F181FF00CC2B12 /* ReaderMainToolbar.m */,
+				73D3BC8918F181FF00CC2B12 /* ReaderThumbCache.h */,
+				73D3BC8A18F181FF00CC2B12 /* ReaderThumbCache.m */,
+				73D3BC8B18F181FF00CC2B12 /* ReaderThumbFetch.h */,
+				73D3BC8C18F181FF00CC2B12 /* ReaderThumbFetch.m */,
+				73D3BC8D18F181FF00CC2B12 /* ReaderThumbQueue.h */,
+				73D3BC8E18F181FF00CC2B12 /* ReaderThumbQueue.m */,
+				73D3BC8F18F181FF00CC2B12 /* ReaderThumbRender.h */,
+				73D3BC9018F181FF00CC2B12 /* ReaderThumbRender.m */,
+				73D3BC9118F181FF00CC2B12 /* ReaderThumbRequest.h */,
+				73D3BC9218F181FF00CC2B12 /* ReaderThumbRequest.m */,
+				73D3BC9318F181FF00CC2B12 /* ReaderThumbsView.h */,
+				73D3BC9418F181FF00CC2B12 /* ReaderThumbsView.m */,
+				73D3BC9518F181FF00CC2B12 /* ReaderThumbView.h */,
+				73D3BC9618F181FF00CC2B12 /* ReaderThumbView.m */,
+				73D3BC9718F181FF00CC2B12 /* ReaderViewController.h */,
+				73D3BC9818F181FF00CC2B12 /* ReaderViewController.m */,
+				73D3BC9918F181FF00CC2B12 /* ThumbsMainToolbar.h */,
+				73D3BC9A18F181FF00CC2B12 /* ThumbsMainToolbar.m */,
+				73D3BC9B18F181FF00CC2B12 /* ThumbsViewController.h */,
+				73D3BC9C18F181FF00CC2B12 /* ThumbsViewController.m */,
+				73D3BC9D18F181FF00CC2B12 /* UIXToolbarView.h */,
+				73D3BC9E18F181FF00CC2B12 /* UIXToolbarView.m */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		73D3BCCF18F1821900CC2B12 /* PDF Reader */ = {
+			isa = PBXGroup;
+			children = (
+				73D3BCE518F189A800CC2B12 /* Reader.pdf */,
+				73D3BCA018F181FF00CC2B12 /* HISTORY.md */,
+				73D3BCA118F181FF00CC2B12 /* LICENSE.md */,
+				73D3BCA218F181FF00CC2B12 /* README.md */,
+				73D3BC5E18F181FF00CC2B12 /* Classes */,
+				73D3BC6518F181FF00CC2B12 /* Graphics */,
+			);
+			name = "PDF Reader";
+			sourceTree = "<group>";
+		};
+		73D3BCD018F1823800CC2B12 /* Rtf */ = {
+			isa = PBXGroup;
+			children = (
+				73D3BC5D18F181FF00CC2B12 /* credo.rtf */,
+			);
+			name = Rtf;
+			sourceTree = "<group>";
+		};
+		73D3BCDC18F188D800CC2B12 /* PDFs */ = {
+			isa = PBXGroup;
+			children = (
+				73D3BCDD18F188D800CC2B12 /* HTTP Live Streaming Overview.pdf */,
+				73D3BCDE18F188D800CC2B12 /* Objective-C Runtime Programming Guide.pdf */,
+				73D3BCDF18F188D800CC2B12 /* PDF Kit Programming Guide: Introduction to PDF Kit Programming Guide.pdf */,
+				73D3BCE018F188D800CC2B12 /* Reader.pdf */,
+			);
+			path = PDFs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,10 +478,36 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73D3BCA318F181FF00CC2B12 /* credo.rtf in Resources */,
 				73D3BC3918F1818400CC2B12 /* Main_iPad.storyboard in Resources */,
+				73D3BCB418F181FF00CC2B12 /* Reader-Print@2x.png in Resources */,
+				73D3BCAF18F181FF00CC2B12 /* Reader-Mark-N.png in Resources */,
+				73D3BCCD18F181FF00CC2B12 /* LICENSE.md in Resources */,
+				73D3BCE318F188D800CC2B12 /* PDF Kit Programming Guide: Introduction to PDF Kit Programming Guide.pdf in Resources */,
+				73D3BCE218F188D800CC2B12 /* Objective-C Runtime Programming Guide.pdf in Resources */,
+				73D3BCB018F181FF00CC2B12 /* Reader-Mark-N@2x.png in Resources */,
+				73D3BCCC18F181FF00CC2B12 /* HISTORY.md in Resources */,
+				73D3BCB318F181FF00CC2B12 /* Reader-Print.png in Resources */,
+				73D3BCE118F188D800CC2B12 /* HTTP Live Streaming Overview.pdf in Resources */,
+				73D3BCA718F181FF00CC2B12 /* back.png in Resources */,
+				73D3BCB118F181FF00CC2B12 /* Reader-Mark-Y.png in Resources */,
+				73D3BCE618F189A800CC2B12 /* Reader.pdf in Resources */,
+				73D3BCE418F188D800CC2B12 /* Reader.pdf in Resources */,
+				73D3BCAE18F181FF00CC2B12 /* Reader-Email@2x.png in Resources */,
 				73D3BC3E18F1818400CC2B12 /* Images.xcassets in Resources */,
+				73D3BCD218F185F400CC2B12 /* Собрание Тайн.bundle in Resources */,
+				73D3BCCE18F181FF00CC2B12 /* README.md in Resources */,
 				73D3BC3618F1818400CC2B12 /* Main_iPhone.storyboard in Resources */,
+				73D3BCB518F181FF00CC2B12 /* Reader-Thumbs.png in Resources */,
+				73D3BCB618F181FF00CC2B12 /* Reader-Thumbs@2x.png in Resources */,
+				73D3BCA818F181FF00CC2B12 /* Default-568h@2x.png in Resources */,
 				73D3BC2D18F1818400CC2B12 /* InfoPlist.strings in Resources */,
+				73D3BCAC18F181FF00CC2B12 /* Reader-Button-N1@2x.png in Resources */,
+				73D3BCA918F181FF00CC2B12 /* Reader-Button-H.png in Resources */,
+				73D3BCAA18F181FF00CC2B12 /* Reader-Button-H@2x.png in Resources */,
+				73D3BCAB18F181FF00CC2B12 /* Reader-Button-N1.png in Resources */,
+				73D3BCB218F181FF00CC2B12 /* Reader-Mark-Y@2x.png in Resources */,
+				73D3BCAD18F181FF00CC2B12 /* Reader-Email.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,9 +526,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73D3BCB818F181FF00CC2B12 /* ReaderConstants.m in Sources */,
+				73D3BCA418F181FF00CC2B12 /* ReaderAppDelegate.m in Sources */,
 				73D3BC3318F1818400CC2B12 /* DLAppDelegate.m in Sources */,
+				73D3BCC718F181FF00CC2B12 /* ReaderViewController.m in Sources */,
+				73D3BCBB18F181FF00CC2B12 /* ReaderContentView.m in Sources */,
+				73D3BCC618F181FF00CC2B12 /* ReaderThumbView.m in Sources */,
+				73D3BCC818F181FF00CC2B12 /* ThumbsMainToolbar.m in Sources */,
+				73D3BCC018F181FF00CC2B12 /* ReaderThumbCache.m in Sources */,
+				73D3BCBD18F181FF00CC2B12 /* ReaderDocumentOutline.m in Sources */,
+				73D3BCC118F181FF00CC2B12 /* ReaderThumbFetch.m in Sources */,
+				73D3BCA518F181FF00CC2B12 /* ReaderBookDelegate.m in Sources */,
+				73D3BCC918F181FF00CC2B12 /* ThumbsViewController.m in Sources */,
+				73D3BCA618F181FF00CC2B12 /* ReaderDemoController.m in Sources */,
+				73D3BCC418F181FF00CC2B12 /* ReaderThumbRequest.m in Sources */,
+				73D3BCB918F181FF00CC2B12 /* ReaderContentPage.m in Sources */,
 				73D3BC3C18F1818400CC2B12 /* DLViewController.m in Sources */,
+				73D3BCBF18F181FF00CC2B12 /* ReaderMainToolbar.m in Sources */,
+				73D3BCB718F181FF00CC2B12 /* CGPDFDocument.m in Sources */,
+				73D3BCC218F181FF00CC2B12 /* ReaderThumbQueue.m in Sources */,
+				73D3BC5C18F181C500CC2B12 /* DLDirectoryTableViewController.m in Sources */,
+				73D3BCC518F181FF00CC2B12 /* ReaderThumbsView.m in Sources */,
+				73D3BCBC18F181FF00CC2B12 /* ReaderDocument.m in Sources */,
+				73D3BCBA18F181FF00CC2B12 /* ReaderContentTile.m in Sources */,
+				73D3BCC318F181FF00CC2B12 /* ReaderThumbRender.m in Sources */,
 				73D3BC2F18F1818400CC2B12 /* main.m in Sources */,
+				73D3BCBE18F181FF00CC2B12 /* ReaderMainPagebar.m in Sources */,
+				73D3BCCA18F181FF00CC2B12 /* UIXToolbarView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -391,6 +687,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Divya Loka/Divya Loka-Prefix.pch";
 				INFOPLIST_FILE = "Divya Loka/Divya Loka-Info.plist";
@@ -404,6 +701,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Divya Loka/Divya Loka-Prefix.pch";
 				INFOPLIST_FILE = "Divya Loka/Divya Loka-Info.plist";
@@ -471,6 +769,7 @@
 				73D3BC5618F1818400CC2B12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		73D3BC5718F1818400CC2B12 /* Build configuration list for PBXNativeTarget "Divya LokaTests" */ = {
 			isa = XCConfigurationList;
@@ -479,6 +778,7 @@
 				73D3BC5918F1818400CC2B12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
